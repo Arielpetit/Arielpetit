@@ -4,7 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arielpetit" alt="arielpetit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arielpetit" target="blank"><img src="https://img.shields.io/twitter/follow/arielpetit?logo=twitter&style=for-the-badge" alt="arielpetit" /></a> </p>
+<p align="left">
+  <a href="https://github.com/arielpetit?tab=followers" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="Follow @arielpetit on GitHub" />
+  </a>
+</p>
+
 <hr>
 
 - 🔭 I’m currently working on [Fintech CBS project](https://github.com/ADORSYS-GIS/webank)
