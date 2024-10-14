@@ -45,7 +45,6 @@
 
 - 📫 How to reach me **tchikayaline@gmail.com**
 
-- 📄 Know about my experiences [[...]]([...])
 
 - ⚡ Fun fact: **I think I am funny and lazy**
 <hr>
