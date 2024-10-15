@@ -46,7 +46,7 @@
 - 📫 How to reach me **tchikayaline@gmail.com**
 
 
-- ⚡ Fun fact: **I think I am funny and lazy**
+- ⚡ Fun fact: **I think I am funny and lazy and like to sleep, eat**
 <hr>
 
 ### 💡 About Me:
