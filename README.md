@@ -10,7 +10,23 @@
   </a>
 </p>
 <hr>
+<h3 align="left">GitHub Stats:</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arielpetit&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<h3 align="left">Top Languages:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielpetit&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="left">GitHub Streak Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielpetit&theme=radical" alt="GitHub Streak" />
+</p>
+<hr>
 
 
 - 🔭 I’m currently working on [Fintech CBS project](https://github.com/ADORSYS-GIS/webank)
