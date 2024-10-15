@@ -37,7 +37,7 @@
 
 - 🤝 I’m looking for help with [Packit](https://github.com/Arielpetit/PackIt)
 
-- 👨‍💻 All of my projects are available at [[...]]([...])
+- 👨‍💻 All of my projects are available at [Project](https://github.com/Arielpetit/)
 
 - 📝 I regularly write articles on [[...]]([...])
 
