@@ -28,19 +28,6 @@
 </p>
 <hr>
 
-
-- 🔭 I’m currently working on [Fintech CBS project](https://github.com/ADORSYS-GIS/webank)
-
-- 🌱 I’m currently learning **Angular, Go-lang**
-
-- 👯 I’m looking to collaborate on [React framework](https://github.com/facebook/react)
-
-- 🤝 I’m looking for help with [Packit](https://github.com/Arielpetit/PackIt)
-
-- 👨‍💻 All of my projects are available at [Project](https://github.com/Arielpetit/)
-
-- 📝 I regularly write articles on [[...]]([...])
-
 - 💬 Ask me about **React, Spring Boot, Rust, Python, Go**
 
 - 📫 How to reach me **tchikayaline@gmail.com**
